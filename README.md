@@ -1,7 +1,7 @@
 mandelbrot
 ==========
 
-This is a simple code, on how to output the mandelbrot set in Python.
+This is a simple implementation of the Mandelbrot Set in Python, using the **Image** library in python.
 
 To learn mode about the mandelbrot set : [Benoit B. MANDELBROT](http://users.math.yale.edu/mandelbrot/)
 
